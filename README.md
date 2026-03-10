@@ -22,10 +22,10 @@ More topics will be added as my learning progresses.
 Artificial-Intelligence  
 │  
 ├── 01_Python  
-│   ├── Day01_Print.ipynb  
-│   ├── Day02_Variables.ipynb  
-│   ├── Day03_Control_Structure.ipynb  
-│   └── Day04_Functions.ipynb  
+│   ├── 01_Print.ipynb  
+│   ├── 02_Variables.ipynb  
+│   ├── 03_Control_Structure.ipynb  
+│   └── 04_Functions.ipynb  
 
 ---
 
